@@ -1,3 +1,4 @@
+### This is a REMOTE change :0
 # recipe
 line 2 changed remotely
 This is a repository for assignment 3 of the Data Science Toolbox course.
@@ -11,3 +12,4 @@ Recipe.jpg found through Google image serach on the term "Dapper Tart". Image ur
 last line changed locally
 =======
 >>>>>>> 25b7000ed1ed4e1774e22dc73338fd9dc4b6f971
+### This is a REMOTE change :0
