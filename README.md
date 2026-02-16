@@ -8,6 +8,7 @@ The title of the recipe is **Dapper Tart**.
 ### Files
 - **ingredients.md** contains the required ingredients.
 - **instructions.txt** contains the instructions for the recipe.
+- **recipe.jpg** picture of the recipe.
 
 ![Recipe image of the Dapper Tart](https://github.com/ianiredan/recipe/blob/main/recipe.jpeg?raw=true "Dapper Tart")
 
